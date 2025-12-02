@@ -16,5 +16,5 @@ This portfolio showcases my **skills**, **projects**, and **contact details** as
 
 ---
 
-## 📁 Project Structure
+
 
